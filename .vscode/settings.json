@@ -1,0 +1,10 @@
+{
+    "chat.mcp.serverSampling": {
+        "copilot-bootcamp-session-4-JF/.vscode/mcp.json: github": {
+            "allowedModels": [
+                "copilot/auto",
+                "copilotcli/claude-sonnet-4.6"
+            ]
+        }
+    }
+}
